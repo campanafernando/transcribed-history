@@ -4,8 +4,6 @@ st.title("Transcribed History 📚📑")
 
 st.markdown("<h3>Fim da República Oligárquica e o Estado Novo: Transições Políticas e Consolidação do Poder no Brasil</h3>", unsafe_allow_html=True)
 
-st.info("R")
-
 tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(
     ["Introdução", 
      "República Oligárquica", 
